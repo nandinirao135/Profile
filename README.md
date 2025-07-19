@@ -1,4 +1,3 @@
-# Profile
 
 # 🖥️About Me:
 - 💡 I’m deeply passionate about software development and problem-solving  </br><br>- 🧰 I enjoy exploring new tools, frameworks, and building hands-on projects </br>   <br>- 🔍 Open to opportunities that allow me to learn, grow, and contribute  </br><br>- ⚡My journey is just beginning, but I'm committed to learning continuously, building consistently, and contributing meaningfully to tech.
